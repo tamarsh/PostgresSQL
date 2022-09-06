@@ -1,4 +1,5 @@
 -- Create all the required tables 
+-- secound line
 
 -- DROP ROLE rsadmin;
 
